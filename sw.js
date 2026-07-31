@@ -1,5 +1,5 @@
 // 1. Zmieniaj ten numer (v1 -> v2 -> v3) za każdym razem, gdy robisz duże zmiany na stronie!
-const CACHE_NAME = 'beauty-studio-v2';
+const CACHE_NAME = 'beauty-studio-v3';
 
 const ASSETS_TO_CACHE = [
   './',
